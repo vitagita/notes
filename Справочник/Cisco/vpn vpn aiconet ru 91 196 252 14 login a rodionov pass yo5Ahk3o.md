@@ -1,0 +1,1 @@
+vpn: vpn.aiconet.ru. 91.196.252.14 login: a.rodionov pass: yo5Ahk3o
