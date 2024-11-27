@@ -8,7 +8,11 @@ password: dein2eeLa7ahtu
 
 IPMI: подключаем в c4948.iptv,  порт : Gi1/12
 IP Address: 10.75.101.94
-N
+Netmask: 24
 
-188.143.128.94/25 gw 188.143.128.1 - c4948.iptv, Gi1/7, Gi1/8
+LAN PORTS:
+lan1 - подключаем в c4948.iptv, Gi1/7
+188.143.128.94/25 gw 188.143.128.1 - ,
+
+lan2 - поGi1/8
 dns 188.143.128.3, 188.143.128.53
