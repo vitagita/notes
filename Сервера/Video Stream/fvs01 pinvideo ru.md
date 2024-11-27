@@ -1,4 +1,7 @@
 Сервер fvs01.pinvideo.ru
+
 login: pinadmin
 password: ahbeeCee9she5h
-root
+
+login: root
+password: dein2eeLa7ahtu
