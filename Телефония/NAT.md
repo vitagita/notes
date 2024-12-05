@@ -9,4 +9,7 @@ linksys переходим в Admin Login -> Advenced и далее провер
 2) NAT Support Parametrs 
 значения: 
 Handle VIA recived = yes
-Handle 
+Handle VIA rport = yes
+Insert VIA recived = yes
+Inserv VIA rpprt =yes
+
