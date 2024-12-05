@@ -1,3 +1,6 @@
 **Настройка NAT**
 на linksys/cisco
-linksys перех
+linksys переходим в Admin Login -> Advenced и далее проверяем настройки
+
+в cisco просто проверяем настройки
+
