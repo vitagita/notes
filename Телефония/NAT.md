@@ -4,4 +4,5 @@ linksys переходим в Admin Login -> Advenced и далее провер
 
 в cisco просто проверяем настройки
 Идем в меню SIP и сморим параметры:
-1) PRT 
+1) PRT Parametrs 
+значения: PRT Packet Size 0.020 !!!
