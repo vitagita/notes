@@ -18,6 +18,10 @@ Inserv VIA rpprt =yes
 Proxy and Registrations:
 Register Expiries= 180
 
+NAT Settings
+	NAT Mapping Enable: yes
+	NAT Keep Alive Enable: yes
+
 Subscriber Information	
 только user_id и password
 
