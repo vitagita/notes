@@ -15,3 +15,7 @@ Inserv VIA rpprt =yes
 
 Делаее идем в LIne 1-n+1
 сверяем параметры:
+Proxy and Registrations:
+Register Expiries= 180
+
+
