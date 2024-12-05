@@ -13,3 +13,5 @@ Handle VIA rport = yes
 Insert VIA recived = yes
 Inserv VIA rpprt =yes
 
+Делаее идем в LIne 1-n+1
+сверяем параметры:
