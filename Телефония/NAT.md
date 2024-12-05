@@ -18,4 +18,8 @@ Inserv VIA rpprt =yes
 Proxy and Registrations:
 Register Expiries= 180
 
+Subscriber Information	
+только user_id и password
 
+Supplementary Service Subscription
+Call Waiting Serv = no!!!!
