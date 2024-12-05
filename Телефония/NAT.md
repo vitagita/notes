@@ -23,3 +23,7 @@ Subscriber Information
 
 Supplementary Service Subscription
 Call Waiting Serv = no!!!!
+
+Audio Configuration	 
+	Preferred Codec: G711a!
+	Use Pref Codec Only: yes!
